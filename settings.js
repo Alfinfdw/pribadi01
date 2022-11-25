@@ -52,14 +52,14 @@ global.ig = "👑 Instagram : @4k.sanzz" //insta
 global.tg = "💙 Telegram : @rrkyii" //telegram
 
 //bot bomdy 
-global.groupbot = "https://youtube.com/@4KSanzz"
+global.groupbot = "https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr"
 global.owner = ['6281236167286', '6281236167286', '6281236167286']
 global.ownernomer = "6281236167286" //ur number
 global.ownernomer2 = "6281236167286" // second number
 global.ownernomer3 = "6281236167286" // stfu
 global.ownertag = '6281236167286', '6281236167286', '6281236167286' //ur tag number
 global.botname = '𝐑. 𝐒𝐙 - MD' //ur bot name
-global.linkz = "https://youtube.com/@4KSanzz" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@4KSanzz" //ur website to be displayed
 global.botscript = 'https://github.com/rksanzz' //script link
 global.reactmoji = "" //ur menu react emoji
